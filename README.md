@@ -8,4 +8,4 @@ I also explore the interplay between humans and their environment through the ev
 
 I am currently a Research Assistant Professor at the University of Memphis. For academic inquiries, you can reach me at jlpckrng at memphis dot edu. I am open for virtual consulting about any of the topics described above. I also take local permaculture design clients. My Permaculture certification is with Advanced Social Systems Design through the Permaculture Women's Guild. If you would like to get in touch about a permaculture gardening project in the Memphis area, please contact me at jenn of earth at gmail dot com. 
 
-[Download my CV][https://github.com/jennofearth/jennofearth.github.io/blob/main/JPickering_CV_20240927.pdf]
+[Download my CV](https://github.com/jennofearth/jennofearth.github.io/blob/main/JPickering_CV_20240927.pdf)
