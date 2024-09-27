@@ -1,7 +1,18 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jenn Pickering, PhD</title>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <h1>Welcome to My Research Page!</h1>
+    <p>Hello! I'm Jenn Pickering, a research professional in Earth Systems Science and Engineering.</p>
+    <p>My professional interests, broadly, are:</p>
+    <ul>
+        <li>[Sedimorphostratigraphy]</li>
+        <li>[Water Resources]</li>
+        <li>[Permaculture Design and Practice]</li>
+    </ul>
+    <p><a href="link-to-your-cv">Download my CV</a></p>
 </body>
 </html>
