@@ -13,6 +13,6 @@
         <li>[Water Resources]</li>
         <li>[Permaculture Design and Practice]</li>
     </ul>
-    <p><a href="link-to-your-cv">Download my CV</a></p>
+    <p><a href=https://github.com/jennofearth/jennofearth.github.io/blob/main/JPickering_CV_20240927.pdf>Download my CV</a></p>
 </body>
 </html>
