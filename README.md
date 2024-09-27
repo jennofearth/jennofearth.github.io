@@ -6,5 +6,6 @@ In the present and future, I focus on permaculture to cultivate food and resourc
 
 I also explore the interplay between humans and their environment through the evolution of language. This line of study reveals how our linguistic development mirrors our changing relationship with the natural world. 
 
-
 I am currently a Research Assistant Professor at the University of Memphis. For academic inquiries, you can reach me at jlpckrng at memphis dot edu. I am open for virtual consulting about any of the topics described above. I also take local permaculture design clients. My Permaculture certification is with Advanced Social Systems Design through the Permaculture Women's Guild. If you would like to get in touch about a permaculture gardening project in the Memphis area, please contact me at jenn of earth at gmail dot com. 
+
+[Download my CV][https://github.com/jennofearth/jennofearth.github.io/blob/main/JPickering_CV_20240927.pdf]
